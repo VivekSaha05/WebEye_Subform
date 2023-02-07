@@ -23,7 +23,7 @@ body {
     background-color: #15172b;
     border-radius: 20px;
     box-sizing: border-box;
-    height: 680px;
+    height: 705px;
     padding: 20px;
     width: 700px;
   }
@@ -122,7 +122,7 @@ body {
   }
   
   .cut-short {
-    width: 50px;
+    width: 90px;
   }
   
   .input:focus ~ .cut,
@@ -189,12 +189,12 @@ body {
     background-color: #06b;
   }
 
-  @media only screen and (max-width: 600px){
+  @media only screen and (max-width: 650px){
     
     .form{
         flex-basis: 100%;
         width: 300;
-        height: 650px;
+        height: 705px;
         padding: 20px;
         width: 350px;
     }
